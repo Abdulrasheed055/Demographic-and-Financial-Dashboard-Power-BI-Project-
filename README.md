@@ -102,6 +102,12 @@ To develop an interactive dashboard that visualizes demographic data alongside f
  ![dashboard](https://github.com/Abdulrasheed055/Demographic-and-Financial-Dashboard-Power-BI-Project-/blob/main/Screenshot%20(737).png)
 
 
+ [▶️ Watch the Demo](https://github.com/Abdulrasheed055/Demographic-and-Financial-Dashboard-Power-BI-Project-/blob/main/2025-06-05%2012-25-12.mp4)
+
+
+ 
+
+
 ## 👤 Author
 
 **Aminu Abdulrasheed**  
