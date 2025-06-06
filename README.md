@@ -95,13 +95,6 @@ To develop an interactive dashboard that visualizes demographic data alongside f
 - **DAX** (measures and calculated fields)
 - **Excel** (pre-checks and data inspection)
 
-| `Demographic_Report.pdf` | Full written project report |
-| `PowerBI_Dashboard.pbix` | The interactive Power BI dashboard |
-| `Dashboard_Screenshot.png` | Image of final dashboard layout |
-| `data-sheet-batch-9.csv` | (If public) Original dataset |
-| `README.md` | Project summary for GitHub |
-
----
 
 ## 👤 Author
 
