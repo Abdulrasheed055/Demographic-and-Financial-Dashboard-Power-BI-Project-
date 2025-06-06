@@ -95,9 +95,10 @@ To develop an interactive dashboard that visualizes demographic data alongside f
 - **DAX** (measures and calculated fields)
 - **Excel** (pre-checks and data inspection)
 
-   ## Get the full project query answers and visual download the pdf below
+ ### Get the full project query answers and visual download the pdf below
  📥 [Download PDF](https://github.com/Abdulrasheed055/Demographic-and-Financial-Dashboard-Power-BI-Project-/blob/main/Abdulrasheed_Aminu_powerbi_report.pdf)
-   ## Dashboard repoort
+  
+## Dashboard report
  ![dashboard](https://github.com/Abdulrasheed055/Demographic-and-Financial-Dashboard-Power-BI-Project-/blob/main/Screenshot%20(737).png)
 
 
